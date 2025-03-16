@@ -1,0 +1,2 @@
+inputFile=/Users/ivohe/Desktop/Intellij_salvataggi/SoftwareEngineering/EducationalProject/src/main/resources/imdb_top_1000.csv
+outputFile=/Users/ivohe/Desktop/Intellij_salvataggi/SoftwareEngineering/EducationalProject/src/main/resources/output_statistics.csv
